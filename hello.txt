@@ -8,3 +8,4 @@ git hello
 git hello master
 git hello hot-fix1
 git hello pull
+git hello clone
